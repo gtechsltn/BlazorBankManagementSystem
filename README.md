@@ -1,5 +1,9 @@
 ## About the Project
 
+https://github.com/hasanmonsur/BlazorBankManagementSystem
+
+https://github.com/AjeteKr/BlazorBankManagementSystem
+
 Blazor Bank Management System is a web application built with Blazor, a modern web framework that allows developers to create interactive web applications using C# instead of traditional JavaScript. This application is designed for secure and efficient management of bank accounts.
 
 ### Key Features
